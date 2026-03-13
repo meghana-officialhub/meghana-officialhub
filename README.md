@@ -20,34 +20,59 @@ Final Year Computer Science Engineering Student passionate about transforming ra
 ## 🛠️ Skills & Technologies
 
 ### 📊 Data Analytics
-- Data Analysis  
-- Data Visualization  
-- Dashboard Development  
-- Business Intelligence  
-- Data Cleaning  
-- Data Transformation  
-- Reporting  
-- Data Interpretation  
+
+<p>
+<img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dashboard%20Development-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-795548?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Transformation-673AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reporting-607D8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Interpretation-8BC34A?style=for-the-badge"/>
+</p>
+
+
 
 ### 🗄️ Databases & Querying
-- SQL  
-- Snowflake SQL  
-- MySQL  
-- SQL Server Management Studio (SSMS)
+
+<p>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SSMS-SQL%20Server-red?style=for-the-badge"/>
+</p>
+
+
 
 ### 📈 Visualization & BI Tools
-- Power BI  
-- Tableau  
-- Microsoft Excel  
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+
 
 ### ⚙️ Data Processing
-- Power Query  
-- DAX  
+
+<p>
+<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DAX-2C2D72?style=for-the-badge"/>
+</p>
+
+
 
 ### ☁️ Cloud Platforms
-- Microsoft Azure  
-- AWS  
-- Google Cloud  
+
+<p>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+----
 
 ### 🧠 Core Strengths
 - Analytical Thinking  
